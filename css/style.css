@@ -13,4 +13,13 @@ body{
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #ABB2B9;
+}
+
+.col-lg-4 img{
+    width: 100%;
 }
