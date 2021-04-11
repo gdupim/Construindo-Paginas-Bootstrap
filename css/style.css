@@ -2,6 +2,7 @@ body{
     font: 20px Arial, sans-serif;
 }
 
+/*? Estilo da página:*/
 .navbar{
     background-color: #2874A6;
 }
@@ -11,15 +12,26 @@ body{
     color: white;
 }
 
+.parceiros{
+    color: white;
+    background-color: #99A3A4;
+}
+
+.servicos{
+    background-color: #566573;
+    color: white;
+}
+
+.img-col{
+    width: 100%;
+}
+
+.bg-footer{
+    background-color: #2C3E50;
+    color: white;
+}
+
 .margin{
     padding-bottom: 50px;
     padding-top: 10px;
-}
-
-.parceiros{
-    background-color: #ABB2B9;
-}
-
-.col-lg-4 img{
-    width: 100%;
 }
